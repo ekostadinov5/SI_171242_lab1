@@ -1,0 +1,5 @@
+commit 812ce403189d0d77c1764284b51efdd444410cdf (HEAD -> logs, origin/master, master)
+Author: student <student@labstudenti.finki.ukim.mk>
+Date:   Thu Apr 4 09:40:11 2019 +0200
+
+    Initial commit
